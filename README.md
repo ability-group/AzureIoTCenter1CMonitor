@@ -19,7 +19,7 @@ Ability.Monitor позволяет отображать аналитическу
 
 <img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Scheme.png">
 
-## Сбор телметрии с серверов
+## Сбор телеметрии с серверов
 <img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Service.png">
 
 Служба мониторинга "Абилити Монитор" отправляет телеметрию и характеристики сервера в IoT Central используя MQTT-транспорт.

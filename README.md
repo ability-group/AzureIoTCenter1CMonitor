@@ -6,6 +6,8 @@
 
 Конструктивно сервис строится на аналитике событий, которые формирует 1С и системы, на которых 1С базируется.
 
+<img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Home.png">
+
 Ability.Monitor позволяет отображать аналитическую информацию на заранее настроенных дашбордах, в удобном для специалистов виде.
 
 Решение включает в себя 
@@ -13,7 +15,8 @@ Ability.Monitor позволяет отображать аналитическу
 * Решение на платформеAzure IoT Center для сбора, аналитики и мониторинга телеметрии, получаемой с зарегистрированных серверов.
 
 Сбор телеметрии осуществляется с использованием платформы IoT Central. В панели мониторинга зарегистрированы сервера для мониторинга
-<img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Home.png">
+
+<img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Dashboard.png">
 
 ## Архитектура решения
 

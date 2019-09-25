@@ -12,6 +12,9 @@ Ability.Monitor позволяет отображать аналитическу
 * Сервис сбора статистики с серверов, входящих в инфраструктуру, подерживающих работу систем 1С
 * Решение на платформеAzure IoT Center для сбора, аналитики и мониторинга телеметрии, получаемой с зарегистрированных серверов.
 
+Сбор телеметрии осуществляется с использованием платформы IoT Central. В панели мониторинга зарегистрированы сервера для мониторинга
+<img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Home.png">
+
 ## Архитектура решения
 
 <img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Scheme.png">
@@ -42,5 +45,5 @@ Ability.Monitor позволяет отображать аналитическу
 | Блокировки  | SQL Server: Locks \ Number of Deadlocks/sec  | Показывает количество запросов на блокировку в секунду, которые закончились взаимной блокировкой  |
 
 
-<img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Home.png">
+
 

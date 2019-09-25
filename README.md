@@ -19,17 +19,18 @@ Ability.Monitor позволяет отображать аналитическу
 ## Сбор телметрии с серверов
 <img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Service.png">
 
-| Объект  | Счетчик  |   |   |   |
+| Объект  | Счетчик  | Описание  |   |   |
 |---|---|---|---|---|
-| Память  | Memory \ Pages/sec  |   |   |   |
-| Процессор  | Processor \ %Processor Time  |   |   |   |
-| Процессор  | System \ Processor Queue Length  |   |   |   |
-| Дисковая подсистема  | Physical Disk \ %Disk Time  |   |   |   |
-| Дисковая подсистема  | Physical Disk \ Avg. Disk Queue Length  |   |   |   |
-| Сетевой интерфейс  | Network Interface \ Bytes Total/sec  |   |   |   |
-| Блокировки  | SQL Server: Locks \ Lock Wait Time (ms)  |   |   |   |
-| Блокировки  | SQL Server: Locks \ Average Wait Time (ms)  |   |   |   |
-| Блокировки  | SQL Server: Locks \ Number of Deadlocks/sec  |   |   |   |
+| Память  | Memory \ Pages/sec  | Характеризует интенсивность обмена между дисковой подсистемой и оперативной памятью. Обращение к дисковой системе происходит из-за того, что запрашиваемые страницы отсутствуют в оперативной памяти.  |   |   |
+| Процессор  | Processor \ %Processor Time  | Время, которое процессор тратит на выполнение полезной работы, в процентах от общего системного времени.  |   |   |
+| Процессор  | System \ Processor Queue Length  | Длина очереди к процессору.  |   |   |
+| Дисковая подсистема  | Physical Disk \ %Disk Time  | Процент времени, которое диск был занят, обслуживая запросы чтения или записи.  |   |   |
+| Дисковая подсистема  | Physical Disk \ Avg. Disk Queue Length  | Показывает эффективность работы дисковой подсистемы. Представляет собой среднюю длину очереди запросов к диску.  |   |   |
+| Сетевой интерфейс  | Network Interface \ Bytes Total/sec  | Скорость, с которой происходит получение или посылка байт через сетевой интерфейс  |   |   |
+| Блокировки  | SQL Server: Locks \ Lock Wait Time (ms)  | Показывает общее время ожидания (в миллисекундах) выполнения запросов на блокировку за последнюю секунду  |   |   |
+| Блокировки  | SQL Server: Locks \ Average Wait Time (ms)  | Показывает среднее время ожидания (в миллисекундах) выполнения каждого запроса на блокировку  |   |   |
+| Блокировки  | SQL Server: Locks \ Number of Deadlocks/sec  | Показывает количество запросов на блокировку в секунду, которые закончились взаимной блокировкой  |   |   |
+
 
 <img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Home.png">
 

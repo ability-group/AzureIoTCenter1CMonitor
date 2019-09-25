@@ -6,7 +6,7 @@
 
 Конструктивно сервис строится на аналитике событий, которые формирует 1С и системы, на которых 1С базируется.
 
-<img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Home.png">
+<img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Home.png" width=300px>
 
 Ability.Monitor позволяет отображать аналитическую информацию на заранее настроенных дашбордах, в удобном для специалистов виде.
 
@@ -16,14 +16,14 @@ Ability.Monitor позволяет отображать аналитическу
 
 Сбор телеметрии осуществляется с использованием платформы IoT Central. В панели мониторинга зарегистрированы сервера для мониторинга
 
-<img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Dashboard.png">
+<img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Dashboard.png" width=300px>
 
 ## Архитектура решения
 
-<img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Scheme.png">
+<img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Scheme.png" width=300px>
 
 ## Сбор телеметрии с серверов
-<img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Service.png">
+<img src="https://github.com/ability-group/AzureIoTCenter1CMonitor/blob/master/images/AzureIoTCenter1CMonitor-Service.png" width=300px>
 
 Служба мониторинга "Абилити Монитор" отправляет телеметрию и характеристики сервера в IoT Central используя MQTT-транспорт.
 
